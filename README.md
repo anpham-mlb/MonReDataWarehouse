@@ -22,7 +22,8 @@ From the data warehouse, users are able to know information such as:
 - Who are the top 3 agents in Melbourne?
 - What is the total number of rent for clients who stay in small scale properties with very basic features?
 - What is the total number of sales for Townhouses with Air Conditioning and Security?
-Fromm the OLAP reports, users are able to know information such as:
+
+From the OLAP reports, users are able to know information such as:
 - What is the number of rents in 2019 and preceding two years?
 - Show ranking of each property type based on the yearly total number of sales and the ranking of each state based on the yearly total number of sales.
 - Show ranking of each property type based on the yearly total number of sales and the ranking of each state based on the yearly total number of sales with partition.
